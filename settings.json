@@ -1,0 +1,8 @@
+{
+    "liveSassCompile.settings.autoprefix": [
+
+    ],
+    "liveSassCompile.settings.forceBaseDirectory": "",
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.rootIsWorkspace": null
+}
